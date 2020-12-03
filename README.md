@@ -7,4 +7,4 @@ I begin the task by first understanding the objective, which is to ensure that t
 
 In particular, the most difficult issue I encountered was moving the .hero class background img from the CSS to then apply the correct accessibility alt tags on the HTML side, without breaking the aesthetic of the site where the img imports across far too large. Remembering to git add and commit along the way was also a difficulty I encountered, as I would regularly push on with changes as I saw them without taking the time to manage version control along the way.
 
-Link to live site:
+Link to live site: https://alex-stew.github.io/homework-task1/
